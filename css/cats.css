@@ -1,0 +1,37 @@
+body{
+    background-color:indianred;
+}
+main{
+    padding: 20px; 
+    padding-top: 10px;
+    max-width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: blanchedalmond;
+    color:black;
+}
+h1{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:bisque;
+}
+footer{
+    text-align: center;
+    font-size: medium;
+    color:whitesmoke;
+    font-family: cursive;
+}
+
+a{
+    color:lightgreen;
+}
+a:visited{
+    color:aqua;
+}
+a:hover{
+    color:darkcyan;
+}
+a::after{
+    color:forestgreen;
+}
