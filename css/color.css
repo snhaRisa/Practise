@@ -30,9 +30,9 @@ body{
 }
 
 .green{
-    background-color: green;
+    background-color: rgb(0, 127, 0);
 }
 
 .blue{
-    background-color: blue;
+    background-color: rgb(0, 0, 255);
 }
