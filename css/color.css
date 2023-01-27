@@ -1,34 +1,38 @@
-body{
-    background-color: bisque;
-}
 
 h1{
     text-align: center;
-    color: rgb(78, 169, 115);
+    font: bolder;
+    text-decoration-line: underline;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-.containers{
-    background-color: darkgrey;
-    padding: 10px; 
+body{
+    background-color: rgb(226, 209, 235)
+}
+
+.container{
+    background-color: rgb(167, 197, 186);
+    width: 400px;
+    height: 115px;
+    margin:auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.marker{
+    width: 200px;
+    height: 25px;
+    margin: 10px auto; 
 }
 
 .red{
-    background: #FF0000;
-    width: 200px;
-    height: 25px; 
-    margin: auto;  
+    background-color: rgb(255, 0, 0);
 }
+
 .green{
-    background: rgb(50, 136, 50);
-    width: 200px;
-    height: 25px; 
-    margin: auto;  
-    padding: 2px; 
+    background-color: green;
 }
+
 .blue{
-    background: rgb(0, 0, 255);
-    width: 200px;
-    height: 25px; 
-    margin: auto;
-    padding: 2px;    
+    background-color: blue;
 }
